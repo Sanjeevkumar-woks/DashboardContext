@@ -1,0 +1,38 @@
+[
+    {
+        "id":"0101",
+        "username":"sam",
+        "name":"Sanjeevkumar M",
+        "email" : "Sanjeevmanagutti@gmail.com",
+        "description":"description of user",
+        "gender":"male",
+        "profile": 3
+    },
+    {
+        "id":"0102",
+        "username":"Sam2",
+        "name":"Sanjeev",
+        "email" : "sanjeevsam158@gmail.com",
+        "description":"description of user",
+        "gender":"male",
+        "profile": null
+    },
+    {
+        "id":"0103",
+        "username":"Anu",
+        "name":"Anushka",
+        "email" : "anushka27@gmail.com",
+        "description":"description of user",
+        "gender": "female",
+        "profile": 2
+    },
+    {
+        "id":"0104",
+        "username":"Sarika",
+        "name":"Sarika",
+        "email" : "sarika@gmail.com",
+        "description":"description of user",
+        "gender": "female",
+        "profile": null
+    }
+]
